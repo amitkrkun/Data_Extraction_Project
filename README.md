@@ -22,7 +22,7 @@ Here, we are using the Python programming language and pytesseract google librar
 * FastApi <br />
 
 ## Workflow
-![workflow](https://user-images.githubusercontent.com/108637079/188907761-18938235-c9f4-42b5-945b-83279bebcb8c.jpg)
+![workflow](https://i.ibb.co/cFrT0bj/2024-06-11-19-21.png)
 
 ## PDF to Image
 For converting PDF to image, we have used pdf2image library.
